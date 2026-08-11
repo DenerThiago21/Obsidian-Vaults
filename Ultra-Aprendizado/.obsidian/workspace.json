@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2fb60b704a338564",
+    "type": "split",
+    "children": [
+      {
+        "id": "292e41faf383179c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb524d5b9fd237a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capítulo 13 - Seu primeiro projeto de ultra aprendizagem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capítulo 13 - Seu primeiro projeto de ultra aprendizagem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e134b524de0bbc79",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc283308f1b280c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edba440165ac9bbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "e57aefa35a7b5f6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "233fe355bd8eb93f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1376f8c8d6496544",
+    "type": "split",
+    "children": [
+      {
+        "id": "2468ee1c99f6f7d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48bf91c4f46da48d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Capítulo 2 - Porque o ultra-aprendizado é importante.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Capítulo 2 - Porque o ultra-aprendizado é importante"
+            }
+          },
+          {
+            "id": "ae1573ac39d43b0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ultra-Aprendizado.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Ultra-Aprendizado"
+            }
+          },
+          {
+            "id": "b59457d0b40b901d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "62477e5b6a85585f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "cc9fa8f52469ad60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ultra-Aprendizado.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Ultra-Aprendizado"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "9eb524d5b9fd237a",
+  "lastOpenFiles": [
+    "Capítulo 12 - Princípio 9 - Experimentação.md",
+    "Capítulo 11 - Princípio 8 - Intuição.md",
+    "Capítulo 10 - Princípio 7 - Retenção.md",
+    "Capítulo 9 - Princípio 6 - Retorno (Feedback).md",
+    "Capítulo 8 - Princípio 5 - Recuperação.md",
+    "Capítulo 7 - Princípio 4 - Repetição.md",
+    "Capítulo 6 - Princípio 3 - Prática Direta.md",
+    "Capítulo 5 - Princípio 2 - Foco.md",
+    "Capítulo 4 - Princípio 1 - Meta-Aprendizagem (Faça um mapa primeiro).md",
+    "Capítulo 3 - Como se tornar um ultra-aprendiz.md",
+    "Capítulo 2 - Porque o ultra-aprendizado é importante.md",
+    "Ultra-Aprendizado.md",
+    "Capítulo 13 - Seu primeiro projeto de ultra aprendizagem.md",
+    "Sem título 1",
+    "Sem título",
+    "Sem título.md",
+    "Retenção.md",
+    "Pasted image 20260508101328.png",
+    "Capítulo 5 - Princípio 2 -Foco.md",
+    "Bem-vindo.md"
+  ]
+}

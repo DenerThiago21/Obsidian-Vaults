@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "b2303ccecaf35cee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b24aa6af863cc06c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7380c4b16d76043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Forma como os chineses aprendem Programação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Forma como os chineses aprendem Programação"
+            }
+          },
+          {
+            "id": "d7c357b30a00771a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologias para tentar emprego na Irlanda ou Canadá.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tecnologias para tentar emprego na Irlanda ou Canadá"
+            }
+          },
+          {
+            "id": "a1486c808a08d9c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cidades Menores Canadá and Irland.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cidades Menores Canadá and Irland"
+            }
+          },
+          {
+            "id": "fbcbe2c0a9f231e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4ba114dc1558fa21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d92ff4ad74918bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "006e4866c2ebb97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e28104740c6b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a7f0a7c24362dc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a5090e33e6fd4043",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2ee7952c4bf6a57f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa4430b1cab8b843",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6caa1e40f719ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af0f8af7bf27eb18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cidades Menores Canadá and Irland.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Cidades Menores Canadá and Irland"
+            }
+          },
+          {
+            "id": "8c5a02ca3b920316",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cidades Menores Canadá and Irland.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Cidades Menores Canadá and Irland"
+            }
+          },
+          {
+            "id": "72bf4f6a38001fd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e9d6fb5acffe9e82",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "bb8be6e6f8ebff8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cidades Menores Canadá and Irland.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Cidades Menores Canadá and Irland"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "a1486c808a08d9c8",
+  "lastOpenFiles": [
+    "Tecnologias para tentar emprego na Irlanda ou Canadá.md",
+    "Cidades Menores Canadá and Irland.md",
+    "A Forma como os chineses aprendem Programação.md",
+    "Java.md"
+  ]
+}

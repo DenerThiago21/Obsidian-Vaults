@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "0b300ff3aa7b11a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "40cee5995ed66899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff232339747683c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e2b0c3c9d5ac2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a10190da5a9487f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58803e5777e30c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "230e88953ca36a2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a1955bba4d46d7e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "772b975e305151ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4378069861787fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203d3afc19347e6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Bem-vindo"
+            }
+          },
+          {
+            "id": "f165c70875b395f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "e8d4557b22d045ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cf11793da86844cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "8cc3606ab293b3a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Bem-vindo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "a58803e5777e30c3",
+  "lastOpenFiles": [
+    "Tarefas para organizar.md",
+    "Portifólio Unicesumar.md",
+    "Impressoras Aditivar.md",
+    "semana 06-04-2026 a 10-04-2026.md",
+    "Bem-vindo.md"
+  ]
+}
