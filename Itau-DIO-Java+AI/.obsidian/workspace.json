@@ -1,39 +1,84 @@
 {
   "main": {
-    "id": "139c7dfa00dbb6af",
+    "id": "5d3dfed5e44b8945",
     "type": "split",
     "children": [
       {
-        "id": "c80d150db8304199",
+        "id": "9f0c540d839b23d7",
         "type": "tabs",
         "children": [
           {
-            "id": "60be75a1570bf4e3",
+            "id": "72f388ee32b8561a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Desenhos/Excalidraw/Drawing 2026-07-09 16.00.13.excalidraw.md"
+                "file": "potencializando os estudos com Agentes/De chatbots a Agentes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-09 16.00.13.excalidraw"
+              "icon": "lucide-file",
+              "title": "De chatbots a Agentes"
+            }
+          },
+          {
+            "id": "b92188130d0f240f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chatbots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chatbots"
+            }
+          },
+          {
+            "id": "b9c37eb738df547d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copiloto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copiloto"
+            }
+          },
+          {
+            "id": "646f94dc17051ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agentes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1d48fa036bb18a76",
+    "id": "d8fce100dc16ad62",
     "type": "split",
     "children": [
       {
-        "id": "44b366ea298b6dfb",
+        "id": "85d8273dfba3ca45",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc57bde9c682958",
+            "id": "f2465d2ccaed62db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +93,7 @@
             }
           },
           {
-            "id": "730b77a775d7cfbe",
+            "id": "dcaecb87c62f76a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +110,7 @@
             }
           },
           {
-            "id": "dab15dc0e83f6f32",
+            "id": "6d71150c5c3630f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,22 +126,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "ab21cd5729c963ae",
+    "id": "9df6e164b5cee1de",
     "type": "split",
     "children": [
       {
-        "id": "aefa180f5f9bfc5e",
+        "id": "a9866503458755a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7f92ca022374df55",
+            "id": "08993cebb66f5070",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A Era das IAs Generativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,11 +157,12 @@
             }
           },
           {
-            "id": "2578d505c546381b",
+            "id": "07ed24111ca6131c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A Era das IAs Generativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -123,7 +171,7 @@
             }
           },
           {
-            "id": "aac934d36b943b4c",
+            "id": "cca7acaca7e891b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +186,7 @@
             }
           },
           {
-            "id": "84768277895f5a81",
+            "id": "f67e6c1393194790",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,11 +200,12 @@
             }
           },
           {
-            "id": "401109be9805c97c",
+            "id": "3fdd1323b0f34ff3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "A Era das IAs Generativas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,22 +229,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "bcc57bde9c682958",
+  "active": "646f94dc17051ce3",
   "lastOpenFiles": [
-    "Itau-DIO-Java+AI/Welcome.md",
-    "Itau-DIO-Java+AI",
-    "Desenhos/Excalidraw/Drawing 2026-07-09 16.00.13.excalidraw.md",
-    "Untitled.md",
-    "Dicas de aprendizado/Pensamentos do vídeo - Porque o Sistema odeia autodidatas.md",
-    "Estudos/Java.md",
-    "Estudos/A Forma como os chineses aprendem Programação.md",
-    "Dicas de aprendizado/Estratégia 3C - Capturar, Colecionar, Conectar.md",
-    "Dicas de aprendizado",
-    "Dicas de aprendizado/Técnicas de leitura.md",
-    "A Família Mandible/A Família Mandible 2029-2047.md"
+    "Agentes.md",
+    "Copiloto.md",
+    "Chatbots.md",
+    "potencializando os estudos com Agentes/De chatbots a Agentes.md",
+    "Introdução a Inteligência Artificial/A Era das IAs Generativas.md",
+    "potencializando os estudos com Agentes",
+    "Introdução a Inteligência Artificial/Entendendo Deep Learning.md",
+    "Introdução a Inteligência Artificial/Como uma Inteligência Artificial é treinada e o que são LLMs.md",
+    "Introdução a Inteligência Artificial/Como a inteligência artificial nasceu.md",
+    "Introdução a Inteligência Artificial",
+    "Welcome.md"
   ]
 }
