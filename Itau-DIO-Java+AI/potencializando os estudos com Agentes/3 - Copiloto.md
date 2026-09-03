@@ -1,0 +1,1 @@
+**Conceito** - é uma espécie de um colega de trabalho sentado ao seu lado, ele enxerga o que você está fazendo e sugere melhorias em tempo real.

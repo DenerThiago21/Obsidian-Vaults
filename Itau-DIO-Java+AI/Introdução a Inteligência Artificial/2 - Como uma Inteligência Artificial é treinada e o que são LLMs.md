@@ -1,0 +1,11 @@
+
+- O modelo de inteligência artificial começa sem nada, e precisamos dar para ele um contexto e ir treinar;
+- O modelo não guarda imagens ou coisas do tipo, ele guarda Parâmetros de reconhecimento (guardar os parâmetros em forma de token); Padrões;
+- Reforço Positivo - dizer se algo é ou não é para a IA (tirar dúvidas da IA) ;
+- Alucinar - Confusão onde a IA não consegue definir o que é e o que não é, e a saída vai vir toda sem nexo (chute probabilístico);
+- O número de parâmetros define a qualidade nos resultados;
+- quanto mais dados internos o modelo possui (maior número de parâmetros), melhor vão ser as respostas;
+- Dicionário de Tokens;
+- quando há milhares de parâmetros/Tokens, chamamos de Grande Modelo de Linguagem (Large Langueage Model - LLM);
+- LLM possui um grande vocabulário especializado;
+- SLM - Small Language Model - um agente treinado com um vocabulário menor;

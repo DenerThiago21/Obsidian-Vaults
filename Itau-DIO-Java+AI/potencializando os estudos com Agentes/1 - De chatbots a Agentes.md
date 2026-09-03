@@ -1,0 +1,3 @@
+- [[2 - Chatbots| Chatbots]]- consultar um especialista (você pergunta e ele responde);
+- [[3 - Copiloto|Copilotos]] - ter um colega de trabalho ao seu lado, vê o que você está fazendo e te sugere melhorias;
+- [[4 - Agentes|Agentes]] - delegar uma tarefa para alguém com base na sua explicação do que você precisa;
