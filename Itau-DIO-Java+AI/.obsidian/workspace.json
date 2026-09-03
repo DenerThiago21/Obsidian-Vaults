@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0c540d839b23d7",
+        "id": "a963f143e8928e51",
         "type": "tabs",
         "children": [
           {
-            "id": "72f388ee32b8561a",
+            "id": "548a11280f334ca0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "potencializando os estudos com Agentes/De chatbots a Agentes.md",
+                "file": "Introdução a engenharia de Prompts/1 - Por que aprender Engenharia de Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De chatbots a Agentes"
+              "title": "1 - Por que aprender Engenharia de Prompts"
             }
           },
           {
-            "id": "b92188130d0f240f",
+            "id": "f0eaba5bd48212e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbots.md",
+                "file": "Introdução a engenharia de Prompts/2 - Como os Modelos de Linguagem 'entendem' um prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chatbots"
-            }
-          },
-          {
-            "id": "b9c37eb738df547d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Copiloto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Copiloto"
-            }
-          },
-          {
-            "id": "646f94dc17051ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agentes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agentes"
+              "title": "2 - Como os Modelos de Linguagem 'entendem' um prompt"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +61,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -126,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9df6e164b5cee1de",
@@ -223,26 +194,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "646f94dc17051ce3",
+  "active": "f0eaba5bd48212e5",
   "lastOpenFiles": [
-    "Agentes.md",
-    "Copiloto.md",
-    "Chatbots.md",
-    "potencializando os estudos com Agentes/De chatbots a Agentes.md",
-    "Introdução a Inteligência Artificial/A Era das IAs Generativas.md",
+    "Introdução a Inteligência Artificial/3 - Entendendo Deep Learning.md",
+    "Introdução a Inteligência Artificial/4 - A Era das IAs Generativas.md",
+    "Introdução a Inteligência Artificial/2 - Como uma Inteligência Artificial é treinada e o que são LLMs.md",
+    "Introdução a Inteligência Artificial/1 -Como a inteligência artificial nasceu.md",
+    "potencializando os estudos com Agentes/1 - De chatbots a Agentes.md",
+    "2 - Chatbots].md",
+    "potencializando os estudos com Agentes/3 - Copiloto.md",
+    "potencializando os estudos com Agentes/4 - Agentes.md",
+    "potencializando os estudos com Agentes/2 - Chatbots.md",
+    "Introdução a engenharia de Prompts/1 - Por que aprender Engenharia de Prompts.md",
+    "Introdução a engenharia de Prompts/2 - Como os Modelos de Linguagem 'entendem' um prompt.md",
+    "Introdução a engenharia de Prompts",
     "potencializando os estudos com Agentes",
-    "Introdução a Inteligência Artificial/Entendendo Deep Learning.md",
-    "Introdução a Inteligência Artificial/Como uma Inteligência Artificial é treinada e o que são LLMs.md",
-    "Introdução a Inteligência Artificial/Como a inteligência artificial nasceu.md",
     "Introdução a Inteligência Artificial",
     "Welcome.md"
   ]
