@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introdução a engenharia de Prompts/2 - Como os Modelos de Linguagem 'entendem' um prompt.md",
+                "file": "3 - Introdução a engenharia de Prompts/2 - Como os Modelos de Linguagem 'entendem' um prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2 - Como os Modelos de Linguagem 'entendem' um prompt"
             }
+          },
+          {
+            "id": "299115299965b6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Introdução a engenharia de Prompts/3 - Engenharia de Prompts no Dia a Dia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Engenharia de Prompts no Dia a Dia"
+            }
+          },
+          {
+            "id": "a496ed45d577b6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Cuidados na Aplicação de prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Cuidados na Aplicação de prompts"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +89,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -98,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9df6e164b5cee1de",
@@ -194,31 +223,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "f0eaba5bd48212e5",
+  "active": "a496ed45d577b6a1",
   "lastOpenFiles": [
-    "Introdução a Inteligência Artificial/3 - Entendendo Deep Learning.md",
-    "Introdução a Inteligência Artificial/4 - A Era das IAs Generativas.md",
-    "Introdução a Inteligência Artificial/2 - Como uma Inteligência Artificial é treinada e o que são LLMs.md",
-    "Introdução a Inteligência Artificial/1 -Como a inteligência artificial nasceu.md",
-    "potencializando os estudos com Agentes/1 - De chatbots a Agentes.md",
+    "3 - Introdução a engenharia de Prompts/3 - Engenharia de Prompts no Dia a Dia.md",
+    "4 - Cuidados na Aplicação de prompts.md",
+    "3 - Introdução a engenharia de Prompts/2 - Como os Modelos de Linguagem 'entendem' um prompt.md",
+    "1 - Introdução a Inteligência Artificial/3 - Entendendo Deep Learning.md",
+    "1 - Introdução a Inteligência Artificial/4 - A Era das IAs Generativas.md",
+    "1 - Introdução a Inteligência Artificial/2 - Como uma Inteligência Artificial é treinada e o que são LLMs.md",
+    "1 - Introdução a Inteligência Artificial/1 -Como a inteligência artificial nasceu.md",
+    "2 - potencializando os estudos com Agentes/1 - De chatbots a Agentes.md",
     "2 - Chatbots].md",
-    "potencializando os estudos com Agentes/3 - Copiloto.md",
-    "potencializando os estudos com Agentes/4 - Agentes.md",
-    "potencializando os estudos com Agentes/2 - Chatbots.md",
-    "Introdução a engenharia de Prompts/1 - Por que aprender Engenharia de Prompts.md",
-    "Introdução a engenharia de Prompts/2 - Como os Modelos de Linguagem 'entendem' um prompt.md",
-    "Introdução a engenharia de Prompts",
-    "potencializando os estudos com Agentes",
-    "Introdução a Inteligência Artificial",
+    "2 - potencializando os estudos com Agentes/3 - Copiloto.md",
+    "2 - potencializando os estudos com Agentes/4 - Agentes.md",
+    "2 - potencializando os estudos com Agentes/2 - Chatbots.md",
+    "3 - Introdução a engenharia de Prompts/1 - Por que aprender Engenharia de Prompts.md",
+    "3 - Introdução a engenharia de Prompts",
+    "2 - potencializando os estudos com Agentes",
+    "1 - Introdução a Inteligência Artificial",
     "Welcome.md"
   ]
 }

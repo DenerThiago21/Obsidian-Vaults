@@ -1,4 +1,4 @@
-
+exit
 - Os modelos LLM calculam probabilidade com base nos padrões aprendidos durante o treinamento;
 - Arquitetura Transformer permite que os modelos compreendam de forma mais eficaz os prompts;
 - A Arquitetura Transformer utiliza mecanismos de atenção para processar palavras em sequência considerando o contexto de cada palavra em relação a todas as outras do texto e não de forma linear;
